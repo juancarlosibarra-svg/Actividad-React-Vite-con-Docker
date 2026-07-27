@@ -1,0 +1,19 @@
+.contenedor-principal {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.contenedor-principal h1 {
+  font-size: 2.5rem;
+  color: #1f2937;
+}
+
+.contenedor-principal p {
+  color: #6b7280;
+  font-size: 1rem;
+}
